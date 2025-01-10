@@ -2,5 +2,5 @@
 Cursor Prompt for Easy App Setup
 
 ### X - Twitter
-(https://x.com/Cursorprompt)
+https://x.com/Cursorprompt
 
